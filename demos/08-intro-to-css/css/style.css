@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#p1 {
+    color:#512d9f;
+}
+
+#p2 {
+    background-color:blue;
+    color: white;
+}
+
+#s1 {
+    background-color:yellow;
+    color:purple;
+}
