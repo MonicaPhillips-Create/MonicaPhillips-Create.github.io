@@ -7,47 +7,47 @@ body {
     font-family: sans-serif;
 }
 
-#p1{
-    color:#0000ff;
+#p1 {
+    color: #0000ff;
 }
 
-#p1s1{
-    background-color:#ffff00;
-    color:#ff0000;
+#p1s1 {
+    background-color: #ffff00;
+    color: #ff0000;
 }
 
-#p1s2{
-    background-color:#ffff00;
-    color:#ff0000;
+#p1s2 {
+    background-color: #ffff00;
+    color: #ff0000;
 }
 
-#p2{
-    color:#ff0000;
+#p2 {
+    color: #ff0000;
 }
 
-#p2s1{
-    background-color:#ffa500;
-    color:black;
+#p2s1 {
+    background-color: #ffa500;
+    color: black;
 }
-#p2s2{
-    background-color:#46b7dd;
-    color:#f7f5f6;
+#p2s2 {
+    background-color: #46b7dd;
+    color: #f7f5f6;
 }
-#p3{
-    color:#008000;
-}
-
-#p3s1{
-    background-color:#8a2be2;
-    color:#080103;
+#p3 {
+    color: #008000;
 }
 
-#p3s2{
-    background-color:#000000;
-    color:#ffffff;
+#p3s1 {
+    background-color: #8a2be2;
+    color: #080103;
 }
 
-#p3s3{
-    background-color:#ffc0cb;
-    color:#ffffff;
+#p3s2 {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+#p3s3 {
+    background-color: #ffc0cb;
+    color: #ffffff;
 }
