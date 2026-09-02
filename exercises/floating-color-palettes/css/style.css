@@ -18,12 +18,12 @@ body {
 
 .h2 {
     font-family: cursive;
+    font-weight: bold;
 }
 
 .color {
     margin: 0px;
     padding: 24px;
-    font-weight: bold;
 }
 
 #d1c1 {
