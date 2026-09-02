@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#p1 {
+    color: lightgreen;
+}
+
+.shadowed {
+    background-color: lightgray;
+    margin: 24px;
+    padding: 24px;
+
+}
+
+p {
+    font-family: serif;
+    color: red;
+}    box-shadow: 4px 4px 4px gray;
