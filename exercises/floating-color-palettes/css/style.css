@@ -5,6 +5,7 @@
 body {
     margin: 0px;
     font-family: sans-serif;
+    background-color: gray;
 }
 
 .color-palette {
@@ -12,12 +13,14 @@ body {
     text-align: center;
     margin: 24px;
     padding: 24px;
-    background-color: rgb(247, 246, 245);
+    background-color: lightgray;
 }
 
 .color {
     margin: 0px;
     padding: 24px;
+    font-family: cursive;
+    font-weight: bold;
 }
 
 #d1c1 {
