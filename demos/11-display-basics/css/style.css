@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+p {
+    background-color: rgb(56, 109, 56);
+    width: 200px;
+    margin: 12px;
+}
+
+span {
+    background-color: tan;
+    display: block;
+}
+div {
+    background-color: lightseagreen;
+    display: inline;
+}
+
+.card {
+    background-color: lightgreen;
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin: 12px;
+    padding: 12px;
+}
