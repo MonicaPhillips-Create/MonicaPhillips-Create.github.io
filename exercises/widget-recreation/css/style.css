@@ -38,6 +38,7 @@ body {
 .event-name {
     color: purple;
     padding-top: 12px;
+    text-size: 14px;
 }
 .event-type {
     font-size: 16px;
