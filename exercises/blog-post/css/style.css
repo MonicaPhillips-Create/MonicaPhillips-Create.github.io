@@ -5,17 +5,41 @@
 body {
     margin: 0px;
     font-family: sans-serif;
+    background-color: #b3b3b3;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center center;
 }
 
 .single-column {
-    background-color: lightgrey;
-    max-width: 400px;
+    background-color: rgb(94, 94, 218);
+    box-shadow: 12px 12px 12px rgb(4, 4, 185);
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
     padding: 24px;
+    color: #020305;
+    border-radius: 12px;
 }
 
 img {
-    max-width: 350px;
-    margin-top: 12px;
+    width: 100%;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    box-shadow: 4px 4px 4px goldenrod;
+    border-radius: 12px;
+
+}
+.single-column p,h2 {
+    margin: 0px;
+    margin-top: 8px;
+}
+
+span {
+    font-style: italic;
+}
+
+h2 {
+    font-size: 30px;
+    color: goldenrod
 }
