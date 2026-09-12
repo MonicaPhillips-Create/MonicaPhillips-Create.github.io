@@ -26,16 +26,18 @@ img {
 }
 
 p {
+    font-size: 20px;
     margin: 0px;
     margin-bottom: 14px;
     margin-top: 8px;
 }
 h2 {
-    margin: 0px;
     margin: 12px 0px;
+    font-size: 24px;
 }
 h3 {
     font-weight: 700;
+    font-size: 20px;
 }
 
 .button {
@@ -44,22 +46,18 @@ h3 {
     display: inline-block;
     margin: 16px;
     margin-right: 14px;
+    border-radius: 36px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 12px;
 }
 
 .primary {
     padding: 14px;
-    border-radius: 36px;
-    font-size: 16px;
-    font-weight: bold;
-    margin-right: 12px;
 }
 
 .secondary {
     padding: 16px;
-    border-radius: 36px;
-    font-size: 16px;
-    font-weight: bold;
-    margin-right: 12px;
 }
 
 .container1 {
@@ -68,12 +66,12 @@ h3 {
     color: rgb(1, 1, 249);
 }
 .primary1 {
-    background-color: rgb(203, 192, 22);
+    background-color: rgb(1, 1, 249);
     color: rgb(199, 57, 57);
 }
 .secondary1 {
-    color: rgb(203, 191, 22);
-    border: 3px solid rgb(203, 191, 22);
+    color: rgb(1, 1, 249);
+    border: 3px solid rgb(1, 1, 249);
 }
 
 .container2 {
@@ -82,18 +80,18 @@ h3 {
     color: white;
 }
 .primary2 {
-    background-color: rgb(199, 57, 57);
+    background-color: white;
     color: rgb(29, 80, 231);
 }
 .secondary2 {
-    color: rgb(199, 57, 57);
-    border: 3px solid rgb(199, 57, 57);
+    color: white;
+    border: 3px solid white;
 }
 
 .container3 {
     background-color: rgb(184, 158, 31);
     padding: 48px 0px;
-    color: rgb(56, 39, 39);
+    color: forestgreen;
 }
 .primary3 {
     background-color: forestgreen;
@@ -106,7 +104,7 @@ h3 {
 .container4 {
     background-color: purple;
     padding: 48px 0px;
-    color: black;
+    color: silver;
 }
 .primary4 {
     background-color: silver;
