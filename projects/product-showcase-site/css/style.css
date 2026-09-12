@@ -62,16 +62,15 @@ h3 {
 
 .container1 {
     background-color: rgb(199, 57, 57);
-    padding: 48px 0px;
-    color: rgb(1, 1, 249);
+    padding: 48px 0px;;
 }
 .primary1 {
-    background-color: rgb(1, 1, 249);
+    background-color: black;
     color: rgb(199, 57, 57);
 }
 .secondary1 {
-    color: rgb(1, 1, 249);
-    border: 3px solid rgb(1, 1, 249);
+    color: black;
+    border: 3px solid black;
 }
 
 .container2 {
