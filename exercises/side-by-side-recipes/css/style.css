@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+     max-width: 1200px;
+    margin: 36px auto;
+}
+
+.Recipe-Intro {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
+.Recipe-Intro img {
+    width: 100%;
+}
+
+.Recipe-Intro .left-side {
+    flex: 1;
+}
+
+.Recipe-Intro .right-side {
+    flex: 1;
+}
+
+.cards-container {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+
+img {
+    height: 600px;
+    object-fit: cover;
+}
+
+.header1 {
+    text-align: center;
+    margin-top: 48px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
