@@ -31,7 +31,11 @@ img {
 
 }
 
-.single-column p,h2 {
+.single-column p {
+    margin: 0px;
+    margin-top: 8px;
+}
+.signle-column h2 {
     margin: 0px;
     margin-top: 8px;
 }
@@ -42,7 +46,7 @@ span {
 
 h2 {
     font-size: 30px;
-    color: goldenrod
+    color: goldenrod;
 }
 #left-column {
     flex: 2;
@@ -73,12 +77,12 @@ h2 {
 }
 
 #right-column a {
- color: black;
+    color: black;
     text-decoration: none;   
 }
 
 #right-column li {
-     padding: 8px 0px;
+    padding: 8px 0px;
     border-bottom: 1px solid black;
 }
 
