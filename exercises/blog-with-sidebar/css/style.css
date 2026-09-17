@@ -91,3 +91,12 @@ h2 {
 #right-column li:last-child {
     border: 0px;
 }
+#sticky-sidebar {
+    position: sticky;
+    top: 24px;
+}
+
+#sticky-sidebar {
+    direction: sticky;
+    top: 24px;
+}
