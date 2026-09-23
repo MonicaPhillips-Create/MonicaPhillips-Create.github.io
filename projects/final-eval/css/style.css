@@ -36,7 +36,46 @@ img {
 }
 
 .team-names {
-     display: flex;
-    gap: 48px;
-    justify-content: center; 
+    display: flex;
+    justify-content: space-between; 
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.button {
+    background-color: rgb(3, 3, 52);
+    color: white;
+    padding: 12px;
+    margin: 12px 12px 12px 12px;
+    border-radius: 12px;
+    border: 3px solid red;
+    text-decoration: none;
+    font-size: 14px
+}
+
+.info {
+    margin-top: 12px;
+    margin-bottom: 36px;
+}
+
+#call {
+    margin-top: 36px;
+}
+#date {
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 6px;
+}
+
+.headers-item h1 {
+    font-size: 40px;
+    margin: 0px;
+}
+
+h4 {
+    margin-bottom: 8px;
+}
+
+h3 {
+    margin-top: 8px;
 }
