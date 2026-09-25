@@ -93,19 +93,15 @@ body {
     text-align: center;
     margin: 24px;
     flex: 1;
-    background-color: rgb(24, 143, 169);
-    background-size: 
-    
-    
+    background-color: rgb(24, 143, 169);  
 }
 #cards-container {
     display: flex;
     background-color: rgb(230, 229, 229);
-
 }
 
 .card a {
-    text-decoration: none;
+    /* text-decoration: none; */
     color: white;
     margin: 0px;
     font-size: 20px
